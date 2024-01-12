@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Form</class>
+ <widget class="QWidget" name="Form">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1120</width>
+    <height>590</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">background-color:rgba(16,30,41,240);
+border-radius:10px;
+
+</string>
+  </property>
+  <widget class="QPushButton" name="fenkonu1">
+   <property name="geometry">
+    <rect>
+     <x>80</x>
+     <y>130</y>
+     <width>360</width>
+     <height>60</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>9</pointsize>
+    </font>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">QPushButton#fenkonu1{
+background-color:rgba(2,65,118,255);
+color:rgba(255,255,255,200);
+border-radius:5px;
+}
+QPushButton#fenkonu1:pressed{
+padding-left:5px;
+padding-top:5px;
+background-color:rgba(2,65,118,255);
+background-position:clac(100%-10px)center;
+}
+QPushButton#fenkonu1{
+background-color:rgba(0,0,0,0);
+border:1px solid rgba(0,0,0,0);
+border-bottom-color:rgba(46,82,101,255);
+color:rgb(255,255,255);
+padding-bottom:7px
+ }
+</string>
+   </property>
+   <property name="text">
+    <string>M A D D E Y İ  N İ T E L E Y E N  Ö Z E L L İ K L E R</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="fenkonu2">
+   <property name="geometry">
+    <rect>
+     <x>80</x>
+     <y>390</y>
+     <width>360</width>
+     <height>60</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>15</pointsize>
+    </font>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">QPushButton#fenkonu2{
+background-color:rgba(2,65,118,255);
+color:rgba(255,255,255,200);
+border-radius:5px;
+}
+QPushButton#fenkonu2:pressed{
+padding-left:5px;
+padding-top:5px;
+background-color:rgba(2,65,118,255);
+background-position:clac(100%-10px)center;
+}
+QPushButton#fenkonu2{
+background-color:rgba(0,0,0,0);
+border:1px solid rgba(0,0,0,0);
+border-bottom-color:rgba(46,82,101,255);
+color:rgb(255,255,255);
+padding-bottom:7px
+ }
+</string>
+   </property>
+   <property name="text">
+    <string>I Ş I K  V E  S E S L E R</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="fenkonu3">
+   <property name="geometry">
+    <rect>
+     <x>680</x>
+     <y>130</y>
+     <width>360</width>
+     <height>60</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>9</pointsize>
+    </font>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">QPushButton#fenkonu3{
+background-color:rgba(2,65,118,255);
+color:rgba(255,255,255,200);
+border-radius:5px;
+}
+QPushButton#fenkonu3:pressed{
+padding-left:5px;
+padding-top:5px;
+background-color:rgba(2,65,118,255);
+background-position:clac(100%-10px)center;
+}
+QPushButton#fenkonu3{
+background-color:rgba(0,0,0,0);
+border:1px solid rgba(0,0,0,0);
+border-bottom-color:rgba(46,82,101,255);
+color:rgb(255,255,255);
+padding-bottom:7px
+ }
+</string>
+   </property>
+   <property name="text">
+    <string>C A N L I L A R  D Ü N Y A S I N A  Y O L C U L U K</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="fenkonu4">
+   <property name="geometry">
+    <rect>
+     <x>680</x>
+     <y>390</y>
+     <width>360</width>
+     <height>60</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>12</pointsize>
+    </font>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">QPushButton#fenkonu4{
+background-color:rgba(2,65,118,255);
+color:rgba(255,255,255,200);
+border-radius:5px;
+}
+QPushButton#fenkonu4:pressed{
+padding-left:5px;
+padding-top:5px;
+background-color:rgba(2,65,118,255);
+background-position:clac(100%-10px)center;
+}
+QPushButton#fenkonu4{
+background-color:rgba(0,0,0,0);
+border:1px solid rgba(0,0,0,0);
+border-bottom-color:rgba(46,82,101,255);
+color:rgb(255,255,255);
+padding-bottom:7px
+ }
+</string>
+   </property>
+   <property name="text">
+    <string>E L E K T İ R İ K L İ  A R A Ç L A R</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

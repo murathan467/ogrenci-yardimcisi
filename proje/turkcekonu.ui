@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Form</class>
+ <widget class="QWidget" name="Form">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1120</width>
+    <height>590</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">background-color:rgba(16,30,41,240);
+border-radius:10px;
+
+</string>
+  </property>
+  <widget class="QPushButton" name="turkcekonu1">
+   <property name="geometry">
+    <rect>
+     <x>80</x>
+     <y>130</y>
+     <width>360</width>
+     <height>60</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>15</pointsize>
+    </font>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">QPushButton#turkcekonu1{
+background-color:rgba(2,65,118,255);
+color:rgba(255,255,255,200);
+border-radius:5px;
+}
+QPushButton#turkcekonu1:pressed{
+padding-left:5px;
+padding-top:5px;
+background-color:rgba(2,65,118,255);
+background-position:clac(100%-10px)center;
+}
+QPushButton#turkcekonu1{
+background-color:rgba(0,0,0,0);
+border:1px solid rgba(0,0,0,0);
+border-bottom-color:rgba(46,82,101,255);
+color:rgb(255,255,255);
+padding-bottom:7px
+ }
+</string>
+   </property>
+   <property name="text">
+    <string>S A G L I K  V E  S P O R</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="turkcekonu2">
+   <property name="geometry">
+    <rect>
+     <x>80</x>
+     <y>390</y>
+     <width>360</width>
+     <height>60</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>15</pointsize>
+    </font>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">QPushButton#turkcekonu2{
+background-color:rgba(2,65,118,255);
+color:rgba(255,255,255,200);
+border-radius:5px;
+}
+QPushButton#turkcekonu2:pressed{
+padding-left:5px;
+padding-top:5px;
+background-color:rgba(2,65,118,255);
+background-position:clac(100%-10px)center;
+}
+QPushButton#turkcekonu2{
+background-color:rgba(0,0,0,0);
+border:1px solid rgba(0,0,0,0);
+border-bottom-color:rgba(46,82,101,255);
+color:rgb(255,255,255);
+padding-bottom:7px
+ }
+</string>
+   </property>
+   <property name="text">
+    <string>D O Ğ A  V E  E V R E N</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="turkcekonu3">
+   <property name="geometry">
+    <rect>
+     <x>680</x>
+     <y>130</y>
+     <width>360</width>
+     <height>60</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">QPushButton#turkcekonu3{
+background-color:rgba(2,65,118,255);
+color:rgba(255,255,255,200);
+border-radius:5px;
+}
+QPushButton#turkcekonu3:pressed{
+padding-left:5px;
+padding-top:5px;
+background-color:rgba(2,65,118,255);
+background-position:clac(100%-10px)center;
+}
+QPushButton#turkcekonu3{
+background-color:rgba(0,0,0,0);
+border:1px solid rgba(0,0,0,0);
+border-bottom-color:rgba(46,82,101,255);
+color:rgb(255,255,255);
+padding-bottom:7px
+ }
+</string>
+   </property>
+   <property name="text">
+    <string>M İ L İ  M Ü C A D E L E  V E  A T A T Ü R K</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="turkcekonu4">
+   <property name="geometry">
+    <rect>
+     <x>680</x>
+     <y>390</y>
+     <width>360</width>
+     <height>60</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>15</pointsize>
+    </font>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">QPushButton#turkcekonu4{
+background-color:rgba(2,65,118,255);
+color:rgba(255,255,255,200);
+border-radius:5px;
+}
+QPushButton#turkcekonu4:pressed{
+padding-left:5px;
+padding-top:5px;
+background-color:rgba(2,65,118,255);
+background-position:clac(100%-10px)center;
+}
+QPushButton#turkcekonu4{
+background-color:rgba(0,0,0,0);
+border:1px solid rgba(0,0,0,0);
+border-bottom-color:rgba(46,82,101,255);
+color:rgb(255,255,255);
+padding-bottom:7px
+ }
+</string>
+   </property>
+   <property name="text">
+    <string>B İ L İ M  V E  T E K N O L O J İ</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

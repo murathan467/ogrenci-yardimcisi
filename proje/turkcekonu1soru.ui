@@ -1,0 +1,601 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Form</class>
+ <widget class="QWidget" name="Form">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>754</width>
+    <height>860</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <widget class="QScrollArea" name="scrollArea">
+   <property name="geometry">
+    <rect>
+     <x>-10</x>
+     <y>-10</y>
+     <width>761</width>
+     <height>871</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="widgetResizable">
+    <bool>true</bool>
+   </property>
+   <widget class="QWidget" name="scrollAreaWidgetContents">
+    <property name="geometry">
+     <rect>
+      <x>0</x>
+      <y>0</y>
+      <width>738</width>
+      <height>2792</height>
+     </rect>
+    </property>
+    <layout class="QVBoxLayout" name="verticalLayout_2">
+     <item>
+      <widget class="QFrame" name="frame">
+       <property name="minimumSize">
+        <size>
+         <width>0</width>
+         <height>2770</height>
+        </size>
+       </property>
+       <property name="styleSheet">
+        <string notr="true">background-color:rgba(16,30,41,240);
+border-radius:10px;
+
+
+
+</string>
+       </property>
+       <property name="frameShape">
+        <enum>QFrame::StyledPanel</enum>
+       </property>
+       <property name="frameShadow">
+        <enum>QFrame::Raised</enum>
+       </property>
+       <widget class="QRadioButton" name="radioButton_10">
+        <property name="geometry">
+         <rect>
+          <x>20</x>
+          <y>1840</y>
+          <width>520</width>
+          <height>50</height>
+         </rect>
+        </property>
+        <property name="font">
+         <font>
+          <pointsize>12</pointsize>
+         </font>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">background-color:rgba(0,0,0,0);
+border:1px solid rgba(0,0,0,0);
+border-bottom-color:rgba(46,82,101,255);
+color:rgb(255,255,255);
+padding-bottom:7px
+</string>
+        </property>
+        <property name="text">
+         <string>İstanbul</string>
+        </property>
+       </widget>
+       <widget class="QRadioButton" name="radioButton_11">
+        <property name="geometry">
+         <rect>
+          <x>20</x>
+          <y>2360</y>
+          <width>520</width>
+          <height>50</height>
+         </rect>
+        </property>
+        <property name="font">
+         <font>
+          <pointsize>12</pointsize>
+         </font>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">background-color:rgba(0,0,0,0);
+border:1px solid rgba(0,0,0,0);
+border-bottom-color:rgba(46,82,101,255);
+color:rgb(255,255,255);
+padding-bottom:7px
+</string>
+        </property>
+        <property name="text">
+         <string>İki perdelik bir oyun hazırlayıp, sahneleyeceğiz.
+</string>
+        </property>
+       </widget>
+       <widget class="QRadioButton" name="radioButton_3">
+        <property name="geometry">
+         <rect>
+          <x>20</x>
+          <y>380</y>
+          <width>520</width>
+          <height>50</height>
+         </rect>
+        </property>
+        <property name="font">
+         <font>
+          <pointsize>12</pointsize>
+         </font>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">background-color:rgba(0,0,0,0);
+border:1px solid rgba(0,0,0,0);
+border-bottom-color:rgba(46,82,101,255);
+color:rgb(255,255,255);
+padding-bottom:7px
+</string>
+        </property>
+        <property name="text">
+         <string>Bu meyve suyu çok soğuk.
+</string>
+        </property>
+       </widget>
+       <widget class="QRadioButton" name="radioButton_7">
+        <property name="geometry">
+         <rect>
+          <x>20</x>
+          <y>2260</y>
+          <width>520</width>
+          <height>50</height>
+         </rect>
+        </property>
+        <property name="font">
+         <font>
+          <pointsize>12</pointsize>
+         </font>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">background-color:rgba(0,0,0,0);
+border:1px solid rgba(0,0,0,0);
+border-bottom-color:rgba(46,82,101,255);
+color:rgb(255,255,255);
+padding-bottom:7px
+</string>
+        </property>
+        <property name="text">
+         <string>Penaltıyı kaçırınca takım arkadaşları ona moral verdi.
+</string>
+        </property>
+       </widget>
+       <widget class="QRadioButton" name="radioButton_15">
+        <property name="geometry">
+         <rect>
+          <x>20</x>
+          <y>2460</y>
+          <width>520</width>
+          <height>50</height>
+         </rect>
+        </property>
+        <property name="font">
+         <font>
+          <pointsize>12</pointsize>
+         </font>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">background-color:rgba(0,0,0,0);
+border:1px solid rgba(0,0,0,0);
+border-bottom-color:rgba(46,82,101,255);
+color:rgb(255,255,255);
+padding-bottom:7px
+</string>
+        </property>
+        <property name="text">
+         <string>Bu bina çok eskiydi, yeniden yapılması iyi oldu.
+</string>
+        </property>
+       </widget>
+       <widget class="QLabel" name="label_5">
+        <property name="geometry">
+         <rect>
+          <x>20</x>
+          <y>2110</y>
+          <width>601</width>
+          <height>50</height>
+         </rect>
+        </property>
+        <property name="font">
+         <font>
+          <pointsize>11</pointsize>
+         </font>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">background-color:rgba(0,0,0,0);
+border:1px solid rgba(0,0,0,0);
+border-bottom-color:rgba(46,82,101,255);
+color:rgb(255,255,255);
+padding-bottom:7px</string>
+        </property>
+        <property name="text">
+         <string>5)Aşağıdaki cümlelerin hangisinde terim anlamlı bir kelime yoktur ?</string>
+        </property>
+       </widget>
+       <widget class="QRadioButton" name="radioButton_6">
+        <property name="geometry">
+         <rect>
+          <x>20</x>
+          <y>1740</y>
+          <width>520</width>
+          <height>50</height>
+         </rect>
+        </property>
+        <property name="font">
+         <font>
+          <pointsize>12</pointsize>
+         </font>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">background-color:rgba(0,0,0,0);
+border:1px solid rgba(0,0,0,0);
+border-bottom-color:rgba(46,82,101,255);
+color:rgb(255,255,255);
+padding-bottom:7px
+</string>
+        </property>
+        <property name="text">
+         <string>Türkiye</string>
+        </property>
+       </widget>
+       <widget class="QRadioButton" name="radioButton_5">
+        <property name="geometry">
+         <rect>
+          <x>20</x>
+          <y>1220</y>
+          <width>520</width>
+          <height>50</height>
+         </rect>
+        </property>
+        <property name="font">
+         <font>
+          <pointsize>12</pointsize>
+         </font>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">background-color:rgba(0,0,0,0);
+border:1px solid rgba(0,0,0,0);
+border-bottom-color:rgba(46,82,101,255);
+color:rgb(255,255,255);
+padding-bottom:7px
+</string>
+        </property>
+        <property name="text">
+         <string>az – çok – orta
+</string>
+        </property>
+       </widget>
+       <widget class="QRadioButton" name="radioButton_2">
+        <property name="geometry">
+         <rect>
+          <x>20</x>
+          <y>280</y>
+          <width>520</width>
+          <height>50</height>
+         </rect>
+        </property>
+        <property name="font">
+         <font>
+          <pointsize>12</pointsize>
+         </font>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">background-color:rgba(0,0,0,0);
+border:1px solid rgba(0,0,0,0);
+border-bottom-color:rgba(46,82,101,255);
+color:rgb(255,255,255);
+padding-bottom:7px
+</string>
+        </property>
+        <property name="text">
+         <string>Ona o kadar soğuk davrandı ki, çok fazla oturmadan kalktı.
+</string>
+        </property>
+       </widget>
+       <widget class="QRadioButton" name="radioButton_14">
+        <property name="geometry">
+         <rect>
+          <x>20</x>
+          <y>1940</y>
+          <width>520</width>
+          <height>50</height>
+         </rect>
+        </property>
+        <property name="font">
+         <font>
+          <pointsize>12</pointsize>
+         </font>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">background-color:rgba(0,0,0,0);
+border:1px solid rgba(0,0,0,0);
+border-bottom-color:rgba(46,82,101,255);
+color:rgb(255,255,255);
+padding-bottom:7px
+</string>
+        </property>
+        <property name="text">
+         <string>Aydoğan Sokak
+</string>
+        </property>
+       </widget>
+       <widget class="QLabel" name="label_4">
+        <property name="geometry">
+         <rect>
+          <x>20</x>
+          <y>1070</y>
+          <width>601</width>
+          <height>50</height>
+         </rect>
+        </property>
+        <property name="font">
+         <font>
+          <pointsize>8</pointsize>
+         </font>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">background-color:rgba(0,0,0,0);
+border:1px solid rgba(0,0,0,0);
+border-bottom-color:rgba(46,82,101,255);
+color:rgb(255,255,255);
+padding-bottom:7px</string>
+        </property>
+        <property name="text">
+         <string>3)  Aşağıda verilen kelime gruplarından hangisinde eş anlamlı sözcükler birarada bulunmaktadır ?</string>
+        </property>
+       </widget>
+       <widget class="QRadioButton" name="radioButton_8">
+        <property name="geometry">
+         <rect>
+          <x>20</x>
+          <y>800</y>
+          <width>520</width>
+          <height>50</height>
+         </rect>
+        </property>
+        <property name="font">
+         <font>
+          <pointsize>12</pointsize>
+         </font>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">background-color:rgba(0,0,0,0);
+border:1px solid rgba(0,0,0,0);
+border-bottom-color:rgba(46,82,101,255);
+color:rgb(255,255,255);
+padding-bottom:7px
+</string>
+        </property>
+        <property name="text">
+         <string>Gemi-Kaptan
+</string>
+        </property>
+       </widget>
+       <widget class="QLabel" name="label_3">
+        <property name="geometry">
+         <rect>
+          <x>20</x>
+          <y>1590</y>
+          <width>601</width>
+          <height>50</height>
+         </rect>
+        </property>
+        <property name="font">
+         <font>
+          <pointsize>15</pointsize>
+         </font>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">background-color:rgba(0,0,0,0);
+border:1px solid rgba(0,0,0,0);
+border-bottom-color:rgba(46,82,101,255);
+color:rgb(255,255,255);
+padding-bottom:7px</string>
+        </property>
+        <property name="text">
+         <string>4)Aşağıdaki sözcüklerden hangisi daha kapsamlıdır ?
+
+</string>
+        </property>
+       </widget>
+       <widget class="QLabel" name="label_2">
+        <property name="geometry">
+         <rect>
+          <x>20</x>
+          <y>550</y>
+          <width>601</width>
+          <height>50</height>
+         </rect>
+        </property>
+        <property name="font">
+         <font>
+          <pointsize>10</pointsize>
+         </font>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">background-color:rgba(0,0,0,0);
+border:1px solid rgba(0,0,0,0);
+border-bottom-color:rgba(46,82,101,255);
+color:rgb(255,255,255);
+padding-bottom:7px</string>
+        </property>
+        <property name="text">
+         <string>2)&quot; Uçak – Pilot &quot; arasındaki anlam ilişkisi aşağıdakilerden hangisinde yoktur ?</string>
+        </property>
+       </widget>
+       <widget class="QRadioButton" name="radioButton_9">
+        <property name="geometry">
+         <rect>
+          <x>20</x>
+          <y>1320</y>
+          <width>520</width>
+          <height>50</height>
+         </rect>
+        </property>
+        <property name="font">
+         <font>
+          <pointsize>12</pointsize>
+         </font>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">background-color:rgba(0,0,0,0);
+border:1px solid rgba(0,0,0,0);
+border-bottom-color:rgba(46,82,101,255);
+color:rgb(255,255,255);
+padding-bottom:7px
+</string>
+        </property>
+        <property name="text">
+         <string>iyilik – hoşgörü – mutluluk
+</string>
+        </property>
+       </widget>
+       <widget class="QLabel" name="label">
+        <property name="geometry">
+         <rect>
+          <x>20</x>
+          <y>30</y>
+          <width>601</width>
+          <height>50</height>
+         </rect>
+        </property>
+        <property name="font">
+         <font>
+          <pointsize>9</pointsize>
+         </font>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">background-color:rgba(0,0,0,0);
+border:1px solid rgba(0,0,0,0);
+border-bottom-color:rgba(46,82,101,255);
+color:rgb(255,255,255);
+padding-bottom:7px</string>
+        </property>
+        <property name="text">
+         <string>1)Aşağıdaki cümlelerden hangisinde &quot; soğuk &quot; kelimesi mecaz anlamda kullanılmıştır ?</string>
+        </property>
+       </widget>
+       <widget class="QRadioButton" name="radioButton_4">
+        <property name="geometry">
+         <rect>
+          <x>20</x>
+          <y>700</y>
+          <width>520</width>
+          <height>50</height>
+         </rect>
+        </property>
+        <property name="font">
+         <font>
+          <pointsize>12</pointsize>
+         </font>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">background-color:rgba(0,0,0,0);
+border:1px solid rgba(0,0,0,0);
+border-bottom-color:rgba(46,82,101,255);
+color:rgb(255,255,255);
+padding-bottom:7px
+</string>
+        </property>
+        <property name="text">
+         <string>Tren-Şoför
+</string>
+        </property>
+       </widget>
+       <widget class="QRadioButton" name="radioButton_13">
+        <property name="geometry">
+         <rect>
+          <x>20</x>
+          <y>1420</y>
+          <width>520</width>
+          <height>50</height>
+         </rect>
+        </property>
+        <property name="font">
+         <font>
+          <pointsize>12</pointsize>
+         </font>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">background-color:rgba(0,0,0,0);
+border:1px solid rgba(0,0,0,0);
+border-bottom-color:rgba(46,82,101,255);
+color:rgb(255,255,255);
+padding-bottom:7px
+</string>
+        </property>
+        <property name="text">
+         <string>dolu – boş – yarım
+</string>
+        </property>
+       </widget>
+       <widget class="QRadioButton" name="radioButton_12">
+        <property name="geometry">
+         <rect>
+          <x>20</x>
+          <y>900</y>
+          <width>520</width>
+          <height>50</height>
+         </rect>
+        </property>
+        <property name="font">
+         <font>
+          <pointsize>12</pointsize>
+         </font>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">background-color:rgba(0,0,0,0);
+border:1px solid rgba(0,0,0,0);
+border-bottom-color:rgba(46,82,101,255);
+color:rgb(255,255,255);
+padding-bottom:7px
+</string>
+        </property>
+        <property name="text">
+         <string>Tren-Makinist
+</string>
+        </property>
+       </widget>
+       <widget class="QRadioButton" name="radioButton">
+        <property name="geometry">
+         <rect>
+          <x>20</x>
+          <y>180</y>
+          <width>520</width>
+          <height>50</height>
+         </rect>
+        </property>
+        <property name="font">
+         <font>
+          <pointsize>12</pointsize>
+         </font>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">background-color:rgba(0,0,0,0);
+border:1px solid rgba(0,0,0,0);
+border-bottom-color:rgba(46,82,101,255);
+color:rgb(255,255,255);
+padding-bottom:7px
+</string>
+        </property>
+        <property name="text">
+         <string>Soğuk suyu içince hemen öksürmeye başladı.
+</string>
+        </property>
+       </widget>
+      </widget>
+     </item>
+    </layout>
+   </widget>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

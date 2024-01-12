@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Form</class>
+ <widget class="QWidget" name="Form">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1120</width>
+    <height>590</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">background-color:rgba(16,30,41,240);
+border-radius:10px;
+
+</string>
+  </property>
+  <widget class="QPushButton" name="matkonu1">
+   <property name="geometry">
+    <rect>
+     <x>80</x>
+     <y>130</y>
+     <width>360</width>
+     <height>60</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>15</pointsize>
+    </font>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">QPushButton#matkonu1{
+background-color:rgba(2,65,118,255);
+color:rgba(255,255,255,200);
+border-radius:5px;
+}
+QPushButton#matkonu1:pressed{
+padding-left:5px;
+padding-top:5px;
+background-color:rgba(2,65,118,255);
+background-position:clac(100%-10px)center;
+}
+QPushButton#matkonu1{
+background-color:rgba(0,0,0,0);
+border:1px solid rgba(0,0,0,0);
+border-bottom-color:rgba(46,82,101,255);
+color:rgb(255,255,255);
+padding-bottom:7px
+ }
+</string>
+   </property>
+   <property name="text">
+    <string>1. Ü N İ T E</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="matkonu2">
+   <property name="geometry">
+    <rect>
+     <x>80</x>
+     <y>390</y>
+     <width>360</width>
+     <height>60</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>15</pointsize>
+    </font>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">QPushButton#matkonu2{
+background-color:rgba(2,65,118,255);
+color:rgba(255,255,255,200);
+border-radius:5px;
+}
+QPushButton#matkonu2:pressed{
+padding-left:5px;
+padding-top:5px;
+background-color:rgba(2,65,118,255);
+background-position:clac(100%-10px)center;
+}
+QPushButton#matkonu2{
+background-color:rgba(0,0,0,0);
+border:1px solid rgba(0,0,0,0);
+border-bottom-color:rgba(46,82,101,255);
+color:rgb(255,255,255);
+padding-bottom:7px
+ }
+</string>
+   </property>
+   <property name="text">
+    <string>2. Ü N İ T E</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="matkonu3">
+   <property name="geometry">
+    <rect>
+     <x>680</x>
+     <y>130</y>
+     <width>360</width>
+     <height>60</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>15</pointsize>
+    </font>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">QPushButton#matkonu3{
+background-color:rgba(2,65,118,255);
+color:rgba(255,255,255,200);
+border-radius:5px;
+}
+QPushButton#matkonu3:pressed{
+padding-left:5px;
+padding-top:5px;
+background-color:rgba(2,65,118,255);
+background-position:clac(100%-10px)center;
+}
+QPushButton#matkonu3{
+background-color:rgba(0,0,0,0);
+border:1px solid rgba(0,0,0,0);
+border-bottom-color:rgba(46,82,101,255);
+color:rgb(255,255,255);
+padding-bottom:7px
+ }
+</string>
+   </property>
+   <property name="text">
+    <string>3. Ü N İ T E</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="matkonu4">
+   <property name="geometry">
+    <rect>
+     <x>680</x>
+     <y>390</y>
+     <width>360</width>
+     <height>60</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>15</pointsize>
+    </font>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">QPushButton#matkonu4{
+background-color:rgba(2,65,118,255);
+color:rgba(255,255,255,200);
+border-radius:5px;
+}
+QPushButton#matkonu4:pressed{
+padding-left:5px;
+padding-top:5px;
+background-color:rgba(2,65,118,255);
+background-position:clac(100%-10px)center;
+}
+QPushButton#matkonu4{
+background-color:rgba(0,0,0,0);
+border:1px solid rgba(0,0,0,0);
+border-bottom-color:rgba(46,82,101,255);
+color:rgb(255,255,255);
+padding-bottom:7px
+ }
+</string>
+   </property>
+   <property name="text">
+    <string>4. Ü N İ T E</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
